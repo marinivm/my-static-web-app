@@ -354,3 +354,4 @@ MigrationBackup/
 local.settings.json
 .telemetry
 *.pack
+/angular-app/.angular
